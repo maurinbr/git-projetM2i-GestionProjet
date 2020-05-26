@@ -1,32 +1,13 @@
 {
-<<<<<<< HEAD
-  "name": "git",
-  "version": "1.0.0",
-  "description": "Vision du produit : Plate-forme web qui permet de géret les activités d'un projet",
-=======
   "name": "my-projetjs",
   "version": "1.0.0",
   "description": "",
->>>>>>> upstream/dev
   "main": "index.js",
   "scripts": {
     "test": "cross-env NODE_ENV=test mocha --require @babel/register --recursive test/unit"
   },
-<<<<<<< HEAD
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/maurinbr/git-projetM2i-GestionProjet.git"
-  },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/maurinbr/git-projetM2i-GestionProjet/issues"
-  },
-  "homepage": "https://github.com/maurinbr/git-projetM2i-GestionProjet#readme",
-=======
-  "author": "",
-  "license": "ISC",
->>>>>>> upstream/dev
   "devDependencies": {
     "@babel/cli": "^7.8.4",
     "@babel/core": "^7.9.6",
